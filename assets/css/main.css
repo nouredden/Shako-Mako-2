@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
 @import url("fontawesome-all.min.css");
-
+@import url("https://fonts.googleapis.com/css?family=Cairo");
 
 
 html, body, div, span, applet, object,
@@ -83,8 +83,8 @@ input, select, textarea {
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
-		font-weight: 300;
+		font-family: 'Cairo', sans-serif;
+		font-weight: 400;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3166,8 +3166,7 @@ input, select, textarea {
 		color: #ddb819;
 	font-size: xx-large;
 	text-align: center;
-	font-family: Cambria, Cochin, serif;
-	margin: 0em 0em 0em 0em;
+  	margin: 0em 0em 0em 0em;
 	background-color: #101d49;
 	border-bottom:#00a0a1 ridge 0.1em;
 	
