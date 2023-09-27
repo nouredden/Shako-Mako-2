@@ -3162,9 +3162,14 @@ input, select, textarea {
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 	}
-/*	.reel{
-		background-image: url("images/bg.jpg");
-		background-size: cover;
-		background-position: center center;
-		
-	}*/
+	.Sheader h3{
+		color: #ddb819;
+	font-size: xx-large;
+	text-align: center;
+	font-family: Cambria, Cochin, serif;
+	margin: 0em 0em 0em 0em;
+	background-color: #101d49;
+	border-bottom:#101049 ridge 0.1em;
+	
+}
+
