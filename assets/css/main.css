@@ -3174,6 +3174,19 @@ input, select, textarea {
 	border-bottom:#00a0a1 ridge 0.1em;
 	
 }
+
+#fixed-button {
+    position: fixed;
+    bottom: 20px; /* Adjust this value to change the distance from the bottom */
+    right: 20px; /* Adjust this value to change the distance from the right */
+    padding: 10px 20px;
+    background-color: #00a0a1; /* Button background color */
+    color: #fff; /* Button text color */
+    border: none;
+    border-radius: 2em;
+    cursor: pointer;
+}
+
 /*
 #logoabout div{
 	padding: 0;
