@@ -79,6 +79,7 @@ input, select, textarea {
 	}
 
 	body {
+		background-color: #fff;
 		background: #f0f4f4;
 		color: #5b5b5b;
 		font-size: 15pt;
@@ -3173,4 +3174,27 @@ input, select, textarea {
 	border-bottom:#00a0a1 ridge 0.1em;
 	
 }
+/*
+#logoabout div{
+	padding: 0;
+	margin-left: 2em;
+	margin-right: 2em;
+	background-color: #fff;
+	margin-top: 5em;
+	margin-bottom: 5em;
+}*/
+/*#logoabout div section img{
+	margin-top: 5em;
+	background-color: #fff;
 
+}*/
+/*
+#logoabout div {
+	
+	background-color: #fff;
+	margin: 0;
+	float: left;
+	width: 48%;
+	text-align: left;
+
+}*/
