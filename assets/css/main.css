@@ -2166,7 +2166,7 @@ input, select, textarea {
 	.wrapper {
 		background: #fff;
 		margin: 0 0 2em 0;
-		padding: 6em 0 6em 0;
+		padding: 4em 0 6em 0;
 	}
 
 		.wrapper.style2 {
@@ -3184,28 +3184,3 @@ input, select, textarea {
     border-radius: 2em;
     cursor: pointer;
 }
-
-/*
-#logoabout div{
-	padding: 0;
-	margin-left: 2em;
-	margin-right: 2em;
-	background-color: #fff;
-	margin-top: 5em;
-	margin-bottom: 5em;
-}*/
-/*#logoabout div section img{
-	margin-top: 5em;
-	background-color: #fff;
-
-}*/
-/*
-#logoabout div {
-	
-	background-color: #fff;
-	margin: 0;
-	float: left;
-	width: 48%;
-	text-align: left;
-
-}*/
