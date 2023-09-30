@@ -111,7 +111,7 @@ input, select, textarea {
 	}
 	h3{
 		font-weight: 400;
-		color: #13118a;
+		color: #00a0a1;
 		line-height: 1.25em;
 	}
 
@@ -2469,7 +2469,7 @@ input, select, textarea {
 		overflow: hidden;
 		padding: 6em 0 6em 0;
 		background: #2b252c;
-		color: #fff;
+		color: #ddb819;
 	}
 
 		#footer .icon.circled {
@@ -2483,7 +2483,7 @@ input, select, textarea {
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #fff;
+			color: #00a0a1;
 		}
 
 		#footer .contact {
