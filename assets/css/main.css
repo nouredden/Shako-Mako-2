@@ -3184,3 +3184,18 @@ input, select, textarea {
     border-radius: 2em;
     cursor: pointer;
 }
+.cen1 {
+	text-align: center;
+	position:inherit;
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 3em;
+    background-color: #ffffff; 
+}
+.cen1 div article h3 a {
+	text-align: center;
+}
+.cen1 div article p {
+	text-align: center;
+}

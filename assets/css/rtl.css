@@ -16,3 +16,9 @@ margin: 0;
 ul li {
 text-align: right;
 }
+
+.cen1 {
+	
+	margin-right: 5em;
+    margin-left: auto;
+}
