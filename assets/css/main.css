@@ -3190,8 +3190,9 @@ input, select, textarea {
 	padding: 0;
 	margin-top: 0;
 	margin-bottom: 0;
-	margin-left: 3em;
+	border: none;
     background-color: #ffffff; 
+	vertical-align:baseline;
 }
 .cen1 div article h3 a {
 	text-align: center;
